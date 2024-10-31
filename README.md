@@ -1,3 +1,4 @@
 # Hello, world!
 Nice day 
-I study Netology
+I study in Netology
+29.10.24
